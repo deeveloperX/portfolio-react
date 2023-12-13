@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Carl Hanson Personal Site",
+    "home_page_url": "http://localhost:3000",
+    "feed_url": "C:\\Users\\mahad\\Downloads\\my-portfolio-main\\public\\feed\\blog/feed.json",
+    "description": "A short description goes here.",
+    "icon": "http://localhost:3000/favicon.ico",
+    "author": {
+        "name": "Carl Hanson",
+        "url": "https://twitter.com/handle"
+    },
+    "items": []
+}

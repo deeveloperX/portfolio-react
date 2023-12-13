@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Carl Hanson Personal Site</title>
+        <link>http://localhost:3000</link>
+        <description>A short description goes here.</description>
+        <lastBuildDate>Sat, 02 Dec 2023 12:13:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en_US</language>
+        <image>
+            <title>Carl Hanson Personal Site</title>
+            <url>http://localhost:3000/favicon.ico</url>
+            <link>http://localhost:3000</link>
+        </image>
+        <copyright>All rights reserved 2023, Carl Hanson</copyright>
+    </channel>
+</rss>
